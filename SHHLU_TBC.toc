@@ -1,6 +1,6 @@
 ## Interface: 20504
-## Version: 1.0.5
-## Title:|cffffffffSonic The Hedgehog|r Level Up!
+## Version: 1.0.6
+## Title:|cff1e3ce1Sonic The Hedgehog|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
 
